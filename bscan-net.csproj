@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>bscan_net</RootNamespace>
+    <Company>Barca Corporation</Company>
+    <Description>A .NET library for performing data analysis on computing devices and providing PHP web applications. It is used for computer forensics, AI, data center, mobile and web applications. Developers can troubleshoot issues when looking up certain information about the target device.</Description>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>BScan.0.1.0</PackageId>
+    <Version>0.1.0</Version>
+    <Copyright>Barca Inc</Copyright>
+    <Authors>anibal_barca</Authors>
+    <Company>barca_corporation</Company>
+  </PropertyGroup>
+
+</Project>
