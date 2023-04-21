@@ -1,4 +1,4 @@
-## bscan-net v0.1.0
+## [bscan-net v0.1.0](https://www.nuget.org/packages/BScan.0.1.0)
 
 <br>
 
@@ -59,7 +59,7 @@ Publish the *.nupkg* file to [nuget.org](https://nuget.org/) using the `dotnet n
 
 4. Under **Select Scopes**, select **Push**.
 
-5. In Select **Glob Default** Packages, enter: `*.`
+5. In Select **Glob Default** Packages, enter: `*`
  
 6. Select **Create**.
 
